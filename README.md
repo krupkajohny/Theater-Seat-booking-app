@@ -12,7 +12,7 @@
   -- className1:nth-of-type(number)
 - using transform: rotateX(-45deg) ;
 
-  ## JAVASCRIPT - exercising:
+## JAVASCRIPT - exercising:
 
 - using local storage(setting & getting data)
 - using querySelector with multiple classes at once
