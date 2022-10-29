@@ -1,2 +1,1 @@
 # Theater Seat booking app
- 
